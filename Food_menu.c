@@ -10,23 +10,23 @@ int main() {
   switch(menu)
   {
     case 1:
-    printf("\n Food item - Burger\n Price - Rs 239/-");
+    printf("\n Food item - Burger\n\n Price - Rs 239/-");
     break;
 
      case 2:
-    printf("\n Food item - Pizza\n Price - Rs 129/-");
+    printf("\n Food item - Pizza\n\n Price - Rs 129/-");
     break;
 
     case 3:
-    printf("\n Food item - Sandwich\n Price - Rs 179/-");
+    printf("\n Food item - Sandwich\n\n Price - Rs 179/-");
     break;
 
      case 4:
-    printf("\n Food item - Coca Cola\n Price - Rs 99/-");
+    printf("\n Food item - Coca Cola\n\n Price - Rs 99/-");
     break;
 
      case 5:
-    printf("\n Food item - Pasta\n Price - Rs 149/-");
+    printf("\n Food item - Pasta\n\n Price - Rs 149/-");
     break;
 
     default:
